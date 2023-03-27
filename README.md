@@ -8,3 +8,5 @@
 6. Apply Decision tree & find Accuracy score
 7. Apply Bagging with 4 algorithms & find Accuracy score
 8. Find out which algorithm is producing good accuracy score
+
+dataset: https://www.kaggle.com/code/balaka18/email-spam-classification/input
